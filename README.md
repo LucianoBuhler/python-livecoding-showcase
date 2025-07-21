@@ -12,6 +12,7 @@ Each folder contains:
 ## Exercises
 
 1. Remove Duplicates
+2. FizzBuzz
 
 ## How to Run
 
