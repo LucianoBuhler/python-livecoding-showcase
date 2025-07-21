@@ -13,6 +13,7 @@ Each folder contains:
 
 1. Remove Duplicates
 2. FizzBuzz
+3. Reverse Words
 
 ## How to Run
 
